@@ -14,3 +14,8 @@
    - The description can be improved by mentioning that the specific implementation of these functions within `Areas` is not provided in this code snippet.
 4. **Output (Optional):** It's assumed that the `Areas` module's functions handle outputting the calculated area in a user-friendly format (e.g., console print).
 5. **Loop and Exit:** The code employs a `while True` loop to continuously display the menu and prompt for user input until the user chooses option 5 (Exit).
+
+----
+
+- fork this `repo` and try it out yourself!
+- Project by [`AVidhanR`](https://linktr.ee/itsvidhanreddy)
